@@ -1,5 +1,5 @@
 # Aplikasi Untuk UMKM Konveksi
-___
+![image](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167985259/3e84ae5f-012b-418e-bf42-9a6686b6ea56)___
 ## Cerita Bisnis
 Jasa konveksi ini berjalan sudah lebih dari 2 tahun. Seiring berjalannya waktu dan orderan yang masuk semakin banyak. Sehingga konveksi ini merasakan adanya kesulitan dalam me-manajemen alur kerjanya. Mulai dari menerima barang dari customer, lama pengerjaan barang yang sedang di jahit, menerima bayaran dari customer dan membayar upah untuk para pekerja penjahit. Nah hal itu semua masih di input manual dengan cara di tulis. Seperti pendapatan perharinya berapa setelan baju yang telah selesai. Sehingga dapat ditemukan penyelesaian masalahnya dengan cara membantu membuat sistem informasi untuk jasa konveksi. Dengan cara inovatif ini harapan dapat membantu meningkatkan efisiensi, transparansi, dan daya saing terhadap industri konveksi lainnya.
 
