@@ -71,9 +71,10 @@ Pembeli / Pemesan
 ![Flow ACtivity](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/cac409fd-d439-4eff-8d40-7eb8b57ccb1c)
 
 ## Flow Activity Penjahit dan User
-
+![WhatsApp Image 2024-07-10 at 08 34 39_62df5d3f](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/7c2c56ed-4764-4625-8223-890913f84caf)
 
 ## Flow Activity User
+![WhatsApp Image 2024-07-10 at 08 34 39_a61c4090](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/5ed1197b-005a-428d-b497-f5bf32580e0a)
 
 ## Wireframe Aplikasi
 #### Link Wireframe Figma
