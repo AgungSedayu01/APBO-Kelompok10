@@ -67,8 +67,13 @@ Pembeli / Pemesan
 ## Sequence Diagram
 ![Sequence Diagram](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/0fb09562-11dd-4e31-8f86-bbc3b6702587)
 
-## Flow Activity 
+## Flow Activity Admin 
 ![Flow ACtivity](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/cac409fd-d439-4eff-8d40-7eb8b57ccb1c)
+
+## Flow Activity Penjahit dan User
+
+
+## Flow Activity User
 
 ## Wireframe Aplikasi
 #### Link Wireframe Figma
