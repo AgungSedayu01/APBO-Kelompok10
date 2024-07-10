@@ -64,6 +64,12 @@ Pembeli / Pemesan
 ## Class Diagram
 ![uml](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/1027ea11-3a08-42dd-b7a6-cb57de3b7112)
 
+## Sequence Diagram
+![Sequence Diagram](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/0fb09562-11dd-4e31-8f86-bbc3b6702587)
+
+## Flow Activity 
+![Flow ACtivity](https://github.com/AgungSedayu01/APBO-Kelompok10/assets/167945633/cac409fd-d439-4eff-8d40-7eb8b57ccb1c)
+
 ## Wireframe Aplikasi
 #### Link Wireframe Figma
 https://www.figma.com/file/oYdJmxYLtNmLOefQcugpSB/Logo?type=design&node-id=116%3A2&mode=design&t=9SzPlQhRST776gkv-1
